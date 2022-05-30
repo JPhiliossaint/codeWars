@@ -1,0 +1,1 @@
+const squareArea = A => Number(((A * 2 / 3.1416)**2).toFixed(2))
